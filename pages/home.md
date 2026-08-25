@@ -55,7 +55,7 @@ components:
               content: |-
                 # Bem-vindo!@ à Documental!!!@#
 
-                #### Sua plataforma de software livre para a criação de geo-narrativas.
+                #### Sua plataforma de software livre para a criação de geo-narrativas.!!!!!
         column2:
           components:
             - type: Spacer
